@@ -1,0 +1,30 @@
+#navbar>li {
+    display: inline-block;
+    margin-right: 80px;
+    font-size: 15px;
+    padding-top: 5px;
+    text-align: right;
+    
+}
+
+a:link {
+    text-decoration: lightblue;
+    color: black;
+}
+
+  .flex-container {
+    display: flex;
+    background-color:white;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: top;
+    padding: 10px;
+    font-size: 5px;
+  }
+  
+
+
+  
+  
